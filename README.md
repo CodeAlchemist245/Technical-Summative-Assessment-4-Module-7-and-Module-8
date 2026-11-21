@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Technical Summative Assessment 3
 
 ## Tasks for Today Management System
@@ -26,3 +27,6 @@ Lorenz Figuera
 - MySQL
 - XAMPP
 - Bootstrap / Blade Templates
+=======
+# Technical-Summative-Assessment-4-Module-7-and-Module-8
+>>>>>>> 847152406dafbf55056c27f214691db6b9037152
