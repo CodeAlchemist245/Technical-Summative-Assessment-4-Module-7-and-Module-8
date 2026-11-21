@@ -7,11 +7,12 @@
 
 <h1>Today's Tasks</h1>
 
-<a href="/">Home</a> |
+<a href="/">Dashboard</a> |
 <a href="/tasks">Task List</a> |
 <a href="/profile">Profile</a> |
-<a href="/about">About</a>
-
+<a href="/about">About</a> |
+<a href="/tasks/create">Create Task</a> |
+<a href="/register">Register</a> |
 <hr>
 
 @forelse($tasks as $task)
